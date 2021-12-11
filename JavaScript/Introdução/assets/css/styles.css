@@ -34,3 +34,11 @@ button {
     margin: 0 20px;
     font-size: 16pt;
 }
+
+.negativo {
+    color: red;
+}
+
+.positivo {
+    color: black;
+}
